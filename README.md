@@ -1,8 +1,8 @@
-# T-Phish
+# K-Phish
 
-## About T-Phish :
+## About K-Phish :
 
-T-Phish is agreat and very usfull phishing tool for Mobile User. This is a modifyed Tool
+K-Phish is agreat and very usfull phishing tool for Mobile User. This is a modifyed Tool
 
 ### Installation and usage guide
 ```
@@ -16,25 +16,25 @@ $ apt-get upgrade -y
 $ pkg install git -y
 ```
 ```
-$ git clone https://github.com/Stephin-Franklin/T-Phish
+$ git clone https://github.com/KomailKhan/K-Phish
 ```
 ```
 $ ls
 ```
 ```
-$ cd T-Phish
+$ cd K-Phish
 ```
 ```
 $ ls
 ```
 ```
-$ unzip T-Phish
+$ unzip K-Phish
 ```
 ```
-$ cd T-Phish
+$ cd K-Phish
 ```
 ```
-$ unzip T-Phish.zip
+$ unzip K-Phish.zip
 ```
 ```
 $ chmod 777 start.sh
